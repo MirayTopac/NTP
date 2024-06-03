@@ -1,0 +1,8 @@
+F:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\bin\Debug\metot_buyuk_sayi_bulma.exe.config
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\bin\Debug\metot_buyuk_sayi_bulma.exe.config
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\bin\Debug\metot_buyuk_sayi_bulma.exe
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\bin\Debug\metot_buyuk_sayi_bulma.pdb
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\obj\Debug\metot_buyuk_sayi_bulma.csproj.AssemblyReference.cache
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\obj\Debug\metot_buyuk_sayi_bulma.csproj.CoreCompileInputs.cache
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\obj\Debug\metot_buyuk_sayi_bulma.exe
+D:\ODEV\metot_buyuk_sayi_bulma\metot_buyuk_sayi_bulma\obj\Debug\metot_buyuk_sayi_bulma.pdb
