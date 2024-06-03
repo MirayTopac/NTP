@@ -1,0 +1,6 @@
+F:\ODEV\Field_uyglaması\Field_uyglaması\bin\Debug\Field_uyglaması.exe.config
+F:\ODEV\Field_uyglaması\Field_uyglaması\bin\Debug\Field_uyglaması.exe
+F:\ODEV\Field_uyglaması\Field_uyglaması\bin\Debug\Field_uyglaması.pdb
+F:\ODEV\Field_uyglaması\Field_uyglaması\obj\Debug\Field_uyglaması.csprojResolveAssemblyReference.cache
+F:\ODEV\Field_uyglaması\Field_uyglaması\obj\Debug\Field_uyglaması.exe
+F:\ODEV\Field_uyglaması\Field_uyglaması\obj\Debug\Field_uyglaması.pdb
