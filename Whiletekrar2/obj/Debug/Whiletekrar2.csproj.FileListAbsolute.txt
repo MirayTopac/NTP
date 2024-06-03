@@ -1,0 +1,9 @@
+F:\ODEV\Whiletekrar2\Whiletekrar2\bin\Debug\Whiletekrar2.exe.config
+F:\ODEV\Whiletekrar2\Whiletekrar2\bin\Debug\Whiletekrar2.exe
+F:\ODEV\Whiletekrar2\Whiletekrar2\bin\Debug\Whiletekrar2.pdb
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.csprojResolveAssemblyReference.cache
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.Form1.resources
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.Properties.Resources.resources
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.csproj.GenerateResource.Cache
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.exe
+F:\ODEV\Whiletekrar2\Whiletekrar2\obj\Debug\Whiletekrar2.pdb
