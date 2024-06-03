@@ -1,0 +1,6 @@
+F:\ODEV\Field_Uyg2\Field_Uyg2\bin\Debug\Field_Uyg2.exe.config
+F:\ODEV\Field_Uyg2\Field_Uyg2\bin\Debug\Field_Uyg2.exe
+F:\ODEV\Field_Uyg2\Field_Uyg2\bin\Debug\Field_Uyg2.pdb
+F:\ODEV\Field_Uyg2\Field_Uyg2\obj\Debug\Field_Uyg2.csprojResolveAssemblyReference.cache
+F:\ODEV\Field_Uyg2\Field_Uyg2\obj\Debug\Field_Uyg2.exe
+F:\ODEV\Field_Uyg2\Field_Uyg2\obj\Debug\Field_Uyg2.pdb
