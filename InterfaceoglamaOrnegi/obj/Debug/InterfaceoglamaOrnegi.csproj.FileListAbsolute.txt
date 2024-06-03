@@ -1,0 +1,6 @@
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\bin\Debug\InterfaceoglamaOrnegi.exe.config
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\bin\Debug\InterfaceoglamaOrnegi.exe
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\bin\Debug\InterfaceoglamaOrnegi.pdb
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\obj\Debug\InterfaceoglamaOrnegi.csprojResolveAssemblyReference.cache
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\obj\Debug\InterfaceoglamaOrnegi.exe
+F:\ODEV\InterfaceoglamaOrnegi\InterfaceoglamaOrnegi\obj\Debug\InterfaceoglamaOrnegi.pdb
