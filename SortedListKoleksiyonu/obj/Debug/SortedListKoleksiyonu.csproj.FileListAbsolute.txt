@@ -1,0 +1,10 @@
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe.config
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.pdb
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csprojResolveAssemblyReference.cache
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.exe
+F:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.pdb
+D:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csproj.AssemblyReference.cache
+D:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csproj.CoreCompileInputs.cache
+D:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.exe
+D:\ODEV\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.pdb
