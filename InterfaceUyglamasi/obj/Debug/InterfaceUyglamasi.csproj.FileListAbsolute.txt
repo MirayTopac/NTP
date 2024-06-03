@@ -1,0 +1,13 @@
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.exe.config
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.exe
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.pdb
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.csprojResolveAssemblyReference.cache
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.exe
+F:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.pdb
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.exe.config
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.exe
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\bin\Debug\InterfaceUyglamasi.pdb
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.csproj.AssemblyReference.cache
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.csproj.CoreCompileInputs.cache
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.exe
+D:\ODEV\InterfaceUyglamasi\InterfaceUyglamasi\obj\Debug\InterfaceUyglamasi.pdb
