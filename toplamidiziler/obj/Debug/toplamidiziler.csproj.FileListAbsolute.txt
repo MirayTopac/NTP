@@ -1,0 +1,9 @@
+F:\ODEV\toplamidiziler\toplamidiziler\bin\Debug\toplamidiziler.exe.config
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.csprojResolveAssemblyReference.cache
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.Form1.resources
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.Properties.Resources.resources
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.csproj.GenerateResource.Cache
+F:\ODEV\toplamidiziler\toplamidiziler\bin\Debug\toplamidiziler.exe
+F:\ODEV\toplamidiziler\toplamidiziler\bin\Debug\toplamidiziler.pdb
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.exe
+F:\ODEV\toplamidiziler\toplamidiziler\obj\Debug\toplamidiziler.pdb
