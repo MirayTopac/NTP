@@ -1,0 +1,9 @@
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\bin\Debug\cokBoyutluDiziOrnegi.exe.config
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\bin\Debug\cokBoyutluDiziOrnegi.exe
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\bin\Debug\cokBoyutluDiziOrnegi.pdb
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.csprojResolveAssemblyReference.cache
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.Form1.resources
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.Properties.Resources.resources
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.csproj.GenerateResource.Cache
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.exe
+F:\ODEV\cokBoyutluDiziOrnegi\cokBoyutluDiziOrnegi\obj\Debug\cokBoyutluDiziOrnegi.pdb
