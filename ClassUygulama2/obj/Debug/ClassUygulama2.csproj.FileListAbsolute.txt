@@ -1,0 +1,13 @@
+F:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.exe.config
+F:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.exe
+F:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.pdb
+F:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.csprojResolveAssemblyReference.cache
+F:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.exe
+F:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.pdb
+D:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.exe.config
+D:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.exe
+D:\ODEV\ClassUygulama2\ClassUygulama2\bin\Debug\ClassUygulama2.pdb
+D:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.csproj.AssemblyReference.cache
+D:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.csproj.CoreCompileInputs.cache
+D:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.exe
+D:\ODEV\ClassUygulama2\ClassUygulama2\obj\Debug\ClassUygulama2.pdb
