@@ -1,0 +1,9 @@
+F:\ODEV\while3\while3\bin\Debug\while3.exe.config
+F:\ODEV\while3\while3\bin\Debug\while3.exe
+F:\ODEV\while3\while3\bin\Debug\while3.pdb
+F:\ODEV\while3\while3\obj\Debug\while3.csprojResolveAssemblyReference.cache
+F:\ODEV\while3\while3\obj\Debug\while3.Form1.resources
+F:\ODEV\while3\while3\obj\Debug\while3.Properties.Resources.resources
+F:\ODEV\while3\while3\obj\Debug\while3.csproj.GenerateResource.Cache
+F:\ODEV\while3\while3\obj\Debug\while3.exe
+F:\ODEV\while3\while3\obj\Debug\while3.pdb
