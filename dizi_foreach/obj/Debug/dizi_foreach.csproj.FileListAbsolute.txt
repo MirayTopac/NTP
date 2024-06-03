@@ -1,0 +1,9 @@
+F:\ODEV\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.exe.config
+F:\ODEV\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.exe
+F:\ODEV\dizi_foreach\dizi_foreach\bin\Debug\dizi_foreach.pdb
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.csprojResolveAssemblyReference.cache
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.Form1.resources
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.Properties.Resources.resources
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.csproj.GenerateResource.Cache
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.exe
+F:\ODEV\dizi_foreach\dizi_foreach\obj\Debug\dizi_foreach.pdb
