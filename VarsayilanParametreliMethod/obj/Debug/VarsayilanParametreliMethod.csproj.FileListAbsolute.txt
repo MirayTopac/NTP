@@ -1,0 +1,6 @@
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\bin\Debug\VarsayilanParametreliMethod.exe.config
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\bin\Debug\VarsayilanParametreliMethod.exe
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\bin\Debug\VarsayilanParametreliMethod.pdb
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\obj\Debug\VarsayilanParametreliMethod.csprojResolveAssemblyReference.cache
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\obj\Debug\VarsayilanParametreliMethod.exe
+F:\ODEV\VarsayilanParametreliMethod\VarsayilanParametreliMethod\obj\Debug\VarsayilanParametreliMethod.pdb
