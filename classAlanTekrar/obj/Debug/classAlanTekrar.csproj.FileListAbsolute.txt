@@ -1,0 +1,6 @@
+F:\ODEV\classAlanTekrar\classAlanTekrar\bin\Debug\classAlanTekrar.exe.config
+F:\ODEV\classAlanTekrar\classAlanTekrar\bin\Debug\classAlanTekrar.exe
+F:\ODEV\classAlanTekrar\classAlanTekrar\bin\Debug\classAlanTekrar.pdb
+F:\ODEV\classAlanTekrar\classAlanTekrar\obj\Debug\classAlanTekrar.csprojResolveAssemblyReference.cache
+F:\ODEV\classAlanTekrar\classAlanTekrar\obj\Debug\classAlanTekrar.exe
+F:\ODEV\classAlanTekrar\classAlanTekrar\obj\Debug\classAlanTekrar.pdb
