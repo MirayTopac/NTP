@@ -1,0 +1,9 @@
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\bin\Debug\ListeKoleksiyonu.exe.config
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\bin\Debug\ListeKoleksiyonu.exe
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\bin\Debug\ListeKoleksiyonu.pdb
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.csprojResolveAssemblyReference.cache
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.Form1.resources
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.Properties.Resources.resources
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.csproj.GenerateResource.Cache
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.exe
+F:\ODEV\ListeKoleksiyonu\ListeKoleksiyonu\obj\Debug\ListeKoleksiyonu.pdb
