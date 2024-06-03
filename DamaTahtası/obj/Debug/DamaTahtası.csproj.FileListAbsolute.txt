@@ -1,0 +1,9 @@
+F:\ODEV\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe.config
+F:\ODEV\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe
+F:\ODEV\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.pdb
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csprojResolveAssemblyReference.cache
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Form1.resources
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Properties.Resources.resources
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.GenerateResource.Cache
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.exe
+F:\ODEV\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.pdb
