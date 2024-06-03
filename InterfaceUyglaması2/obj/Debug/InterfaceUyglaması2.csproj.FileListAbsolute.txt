@@ -1,0 +1,13 @@
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.exe.config
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.exe
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.pdb
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.csprojResolveAssemblyReference.cache
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.exe
+F:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.pdb
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.exe.config
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.exe
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\bin\Debug\InterfaceUyglaması2.pdb
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.csproj.AssemblyReference.cache
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.csproj.CoreCompileInputs.cache
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.exe
+D:\ODEV\InterfaceUyglaması2\InterfaceUyglaması2\obj\Debug\InterfaceUyglaması2.pdb
