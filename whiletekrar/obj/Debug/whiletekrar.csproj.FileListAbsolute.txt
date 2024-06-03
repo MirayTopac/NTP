@@ -1,0 +1,9 @@
+F:\ODEV\whiletekrar\whiletekrar\bin\Debug\whiletekrar.exe.config
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.csprojResolveAssemblyReference.cache
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.Form1.resources
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.Properties.Resources.resources
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.csproj.GenerateResource.Cache
+F:\ODEV\whiletekrar\whiletekrar\bin\Debug\whiletekrar.exe
+F:\ODEV\whiletekrar\whiletekrar\bin\Debug\whiletekrar.pdb
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.exe
+F:\ODEV\whiletekrar\whiletekrar\obj\Debug\whiletekrar.pdb
