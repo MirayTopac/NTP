@@ -1,0 +1,9 @@
+F:\ODEV\dictionaryUyg\dictionaryUyg\bin\Debug\dictionaryUyg.exe.config
+F:\ODEV\dictionaryUyg\dictionaryUyg\bin\Debug\dictionaryUyg.exe
+F:\ODEV\dictionaryUyg\dictionaryUyg\bin\Debug\dictionaryUyg.pdb
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.csprojResolveAssemblyReference.cache
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.Form1.resources
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.Properties.Resources.resources
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.csproj.GenerateResource.Cache
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.exe
+F:\ODEV\dictionaryUyg\dictionaryUyg\obj\Debug\dictionaryUyg.pdb
