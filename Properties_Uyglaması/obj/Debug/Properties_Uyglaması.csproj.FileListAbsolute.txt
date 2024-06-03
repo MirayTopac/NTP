@@ -1,0 +1,6 @@
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\bin\Debug\Properties_Uyglaması.exe.config
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\bin\Debug\Properties_Uyglaması.exe
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\bin\Debug\Properties_Uyglaması.pdb
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\obj\Debug\Properties_Uyglaması.csprojResolveAssemblyReference.cache
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\obj\Debug\Properties_Uyglaması.exe
+F:\ODEV\Properties_Uyglaması\Properties_Uyglaması\obj\Debug\Properties_Uyglaması.pdb
